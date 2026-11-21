@@ -1,0 +1,16 @@
+# Kept out of the public repository
+ligaments_paper_v1.pdf
+JFM_Perspective_first_revision-9.pdf
+v1_review.md
+docs/deeper/
+
+# Build and run output
+build/
+runs/
+
+# Python
+.venv/
+__pycache__/
+
+# LaTeX
+paper/build/

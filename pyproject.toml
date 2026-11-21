@@ -1,0 +1,12 @@
+[project]
+name = "ligaments-paper-v2"
+version = "0.0.0"
+description = "Theory and analysis code for the drop-size statistics of randomly corrugated ligaments"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "scipy",
+]
+
+[tool.uv]
+package = false
